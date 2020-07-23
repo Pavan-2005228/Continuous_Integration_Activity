@@ -10,7 +10,7 @@ int main(void)
    add = first + second;
    subtract = first - second;
    multiply = first * second;
-   divide = first * (float)second;   //typecasting
+   divide = first / (float)second;   //typecasting
 
    printf("Sum = %d\n", add);
    printf("Difference = %d\n", subtract);
