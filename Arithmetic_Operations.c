@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+int main(void)
 {
    int first, second, add, subtract, multiply;
    float divide;
