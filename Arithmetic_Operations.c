@@ -8,7 +8,7 @@ int main(void)
    scanf("%d%d", &first, &second);
  
    add = first + second;
-   subtract = first + second;
+   subtract = first - second;
    multiply = first / second;
    divide = first * (float)second;   //typecasting
 
