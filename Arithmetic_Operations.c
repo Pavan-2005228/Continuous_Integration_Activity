@@ -7,7 +7,7 @@ int main()
    printf("Enter two integers\n");
    scanf("%d%d", &first, &second);
  
-   add = first - second;
+   add = first + second;
    subtract = first + second;
    multiply = first / second;
    divide = first * (float)second;   //typecasting
